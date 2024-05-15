@@ -1,16 +1,13 @@
-### Hi there 👋
+### Meu Perfil 💕(❁´◡`❁)
 
-<!--
-**Ana-Rizzato/Ana-Rizzato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Paula
+- Sou professora de Tecnologia e Robótica
+- Atuo na rede Estadual de Ensino 
+- Trabalho com a Plataforma do Alura
+- Utilizo esse espaço para organizar e compartilhar os meus projetos
+  
+### para entra em contato comigo ✉️
+anarizzato@prof.educacao.sp.gov.br
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/zoNlCNnHiygAAAAi/mandalorian-babyyoda.gif) 
